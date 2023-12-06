@@ -15,7 +15,6 @@ inside cmd run these commands:
 
 ### For Frontend
 
-inside cmd run these commands:  
 => cd frontend  
 => npm i  
 => npm start  
